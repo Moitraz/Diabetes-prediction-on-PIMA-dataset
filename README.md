@@ -6,5 +6,6 @@ Using Random Forest Classifier, Support Vector Machine Classifier, K-Nearest Nei
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Moitraz/diabetes-prediction/blob/main/output.png)
+![App Screenshot](https://github.com/Moitraz/diabetes-prediction/blob/main/output2.png)
 
