@@ -1,7 +1,7 @@
 
 # Diabetes Prediction on PIMA Indians Diabetes Dataset
 
-Using Random Forest Classifier, Support Vector Machine Classifier, K-Nearest Neighbour Classifier and Logistic Regression Classifier for training and testing, then predicting with user given input using the Random Forest Classifier.
+Developed a Diabetes Prediction system using Random Forest Classifier for PIMA Indians Diabetes Database. Implemented multiple ML algorithms (RFC, SVM, KNN, Logistic Regression) in Python and achieved 87% accuracy using Random Forest Classifier and Integrated user-friendly GUI for input and prediction.
 
 
 ## Screenshots
@@ -14,6 +14,4 @@ Comparision of different models to predict diabetes
 
 ## Prediction
 Python (Tkinter) based UI to predict diabetes using the machine learning model.  
-![App Screenshot](https://github.com/Moitraz/diabetes-prediction/blob/main/Screenshot%202023-07-13%20210659.png)  
-
-
+![App Screenshot](https://github.com/Moitraz/diabetes-prediction/blob/main/Screenshot%202023-07-13%20210659.png)
